@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Tindev" src=".github/logo.svg" width="180px" />
+  <img alt="Tindev" src="frontend/src/assets/logo.svg" width="180px" />
 </div>
 
 <hr>
